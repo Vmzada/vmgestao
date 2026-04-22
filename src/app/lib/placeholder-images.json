@@ -1,0 +1,23 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "app-logo",
+      "description": "Logo profissional do Vm Gestão",
+      "imageUrl": "https://picsum.photos/seed/vm-logo/200/200",
+      "imageHint": "finance logo"
+    },
+    {
+      "id": "product-placeholder",
+      "description": "Espaço reservado para imagem de produto",
+      "imageUrl": "https://picsum.photos/seed/item/400/400",
+      "imageHint": "product package"
+    },
+    {
+      "id": "dashboard-hero",
+      "description": "Banner do painel principal",
+      "imageUrl": "https://picsum.photos/seed/finance-dash/800/400",
+      "imageHint": "business growth"
+    }
+  ]
+}
